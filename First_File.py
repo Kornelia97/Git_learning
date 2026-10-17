@@ -1,8 +1,6 @@
-# This is our new file and our first commit
 
 
-#This is out code
 
-my_name = "Kornelia"
+my_name = input("Name: ")
 
 print(f"My name is {my_name}")
