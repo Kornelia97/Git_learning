@@ -1,1 +1,1 @@
-Repository to learning git
+Repository for learning git
